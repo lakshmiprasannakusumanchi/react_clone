@@ -31,7 +31,7 @@ const Nav = () => {
   <NavLink to='Contact'style={activepagestyle}  className="item">
    Contact
   </NavLink>
-  <a href="#"><img style={{paddingLeft:'500px',paddingTop:'10px'}} src={cart}/></a>
+  <a href="#"><img alt='cart' style={{paddingLeft:'440px',paddingTop:'10px'}} src={cart}/></a>
   <a><img style={{paddingLeft:'25px',width:'70px'}} src={avatar}/></a> 
 </div>
 <hr style={{marginTop:'30px'}}></hr>
